@@ -1,3 +1,3 @@
-region           = "ap-southeast-2"
-hosted_zone_name = "pablosspot.ml"
+region           = "ap-south-1"
+hosted_zone_name = "trymax.pl"
 endpoint_name    = "app"
